@@ -1,0 +1,2 @@
+# premium-essential-dist-001-essential-oil-steam-distillati
+Tired of guessing which batch produced your best lavender oil? Capture every variable — from steam pressure to distillation duration — with a single Notion template designed for precision.  This template replaces scattered notes and sticky notes with a structured database that logs each distillation’s plant material, water volume, yield, and sensor
